@@ -2,7 +2,7 @@ dvc
 dvc[gdrive]
 sklearn
 pandas
-yaml
-json
 joblib
 numpy
+pytest
+tox
