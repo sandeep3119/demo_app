@@ -13,6 +13,9 @@ split_data:
   test_path: data/processed/test_winequality.csv
   test_size: 0.2
 
+reports:
+  scores: report/scores.json
+  params: report/params.json
 estimators:
   ElasticNet:
     params:
